@@ -9,7 +9,7 @@
 
 # 👋 Hey, I'm Isha
 
-💻 A **self-taught FrontEnd Developer** from India 🇮🇳  
+💻 A **self-taught Full stack Developer** from India 🇮🇳  
 ✨ Developer by **logic**, creator by **passion**  
 
 ---
